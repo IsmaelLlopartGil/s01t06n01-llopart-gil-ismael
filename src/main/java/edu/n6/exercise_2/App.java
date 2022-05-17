@@ -14,7 +14,7 @@ public class App {
 		
 		GenericMethods.printArguments(person, string, integer);
 		GenericMethods.printArguments(integer, person, string);
-		
+		GenericMethods.printArguments(personList, character, string);
 		GenericMethods.printArguments(character, person, personList);
 
 
